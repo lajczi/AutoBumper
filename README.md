@@ -6,6 +6,7 @@ This project uses the built-in Node.js APIs, so there’s **no need to install a
 ## Usage
 
 You need to have the following dependencies installed:
+
 - [Git](https://git-scm.com/downloads)
 - [Node.js](https://nodejs.org/en/download)
 
