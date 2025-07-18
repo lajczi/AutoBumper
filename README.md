@@ -1,7 +1,6 @@
 # AutoBumper
 
-A basic auto-bumper designed for Discord servers using [DISBOARD](https://disboard.org/). \
-This project uses the built-in Node.js APIs, so there’s **no need to install additional npm packages**.
+A basic auto-bumper designed for Discord servers using [DISBOARD](https://disboard.org/).
 
 ## Usage
 
@@ -22,7 +21,7 @@ node index.js
 ```sh
 npm i -g pm2
 cd ~/Coding/AutoBumper # change the path if yours is different
-pm2 start index.js --name AutoBump
+pm2 start index.js --name AutoBumper
 ```
 
 ## Configuration
